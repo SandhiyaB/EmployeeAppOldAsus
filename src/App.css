@@ -1,0 +1,92 @@
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=date] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=number] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+input[type=email] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 50px;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+/*
+/*   "web": {
+"client_id": "531446788974-39st0m4chhlacn8k9mr3a7jme5t0f2o3.apps.googleusercontent.com",
+"project_id": "employeeattendance-1df68",
+"auth_uri": "https://accounts.google.com/o/oauth2/auth",
+"token_uri": "https://accounts.google.com/o/oauth2/token",
+"auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+"client_secret": "O9JKQYiSs5uikOWN0zuSQ2lo",
+"redirect_uris": [
+"https://employeeattendance-1df68.firebaseapp.com/__/auth/handler"
+],
+"javascript_origins": [
+"http://localhost",
+"http://localhost:5000",
+"https://employeeattendance-1df68.firebaseapp.com"
+]
+}
+
+  /*   {
+      "src": "Icon-72@2x",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, 
+    {
+        "src": "xxhdpi",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+
+*/
